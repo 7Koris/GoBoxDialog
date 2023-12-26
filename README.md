@@ -7,6 +7,8 @@ A ready-to-go dialog box for use in Godot engine 4.2
 
 ## Description
 
+This plugin will add a new node called DialogBox.
+
 The dialog box has a configurable speed and some public variables for use such as history and input_disabled.
 You may also want to use the dialog_complete signal which only emits once the user has gone through all dialog inside the box.
 When the plugin is enabled you should be able to add it to a scene as a new node.
