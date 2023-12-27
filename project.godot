@@ -19,4 +19,4 @@ window/size/viewport_width=1920
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/gobox/plugin.cfg")
+enabled=PackedStringArray()
