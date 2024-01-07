@@ -6,10 +6,13 @@ A ready-to-go dialog box for use in Godot engine 4.2
 [![Screenshot-2023-12-25-225813.png](https://i.postimg.cc/KzJFdHQL/Screenshot-2023-12-25-225813.png)](https://postimg.cc/2bbPWTs8)
 
 ## Description
-
 This plugin will add a new node called DialogBox.
 By default, the dialog box will wait for ui_accept. This can be changed in DialogBox.gd.
 The user can hold the ui_accept button to fast forward through the dialog.
+
+### Usage
+* After enabling the plugin, create a canvas layer, and then add the DialogBox node as a child of the canvas layer
+* See the functions and signals below for usage
 
 ### Signals
 * dialog_complete - Signal emitted when all dialog has been parsed through by the user
