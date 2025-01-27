@@ -32,7 +32,7 @@ If you wish to make changes to the style of the box you may modify the DialogRig
 
 ## Authors
 
-Kamran Haq
+Koris Lucienne Haq
 
 ## License
 
